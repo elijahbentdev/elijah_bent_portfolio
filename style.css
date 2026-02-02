@@ -301,6 +301,13 @@ ul {
     color: #333;
 }
 
+.project-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: 10px;
+}
+
 .project-content {
     padding: 1.5rem;
 }
